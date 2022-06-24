@@ -8,5 +8,6 @@ public class GitTest {
         System.out.println("heloo git1");
         System.out.println("ming tian mian shi");
         System.out.println("liwang haohao xuexi");
+        System.out.println("liwang hao hao xue xi java");
     }
 }
