@@ -11,5 +11,8 @@ public class GitTest {
         System.out.println("liwang hao hao xue xi java");
         System.out.println("liwang hao hao xue xi java");
         System.out.println("liwang hao hao xue xi java");
+        System.out.println("liwang hao hao xue xi mysql");
+        System.out.println("liwang hao hao xue xi ssm");
+        System.out.println("liwang hao hao xue xi springboot");
     }
 }
